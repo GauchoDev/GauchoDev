@@ -9,7 +9,7 @@ float iPlayero2 = 0;
 float iPlayero3 = 0;
 float iPlayero4 = 0;
 float iPlayero5 = 0;
-double iArrayPlayeros[5]; //{iPlayero1, iPlayero2, iPlayero3, iPlayero4, iPlayero5};
+double iArrayPlayeros[5];
 const float Np$ = 60.35;
 const float Nc$ = 53.28;
 const float Gp$ = 58.32;
@@ -201,11 +201,13 @@ float cierre()
     printf("Total litror vendidos de Nc: %.2f\n", Nc2);
     printf("Total litror vendidos de Gp: %.2f\n", Gp3);
     printf("Total litror vendidos de Gc: %.2f\n", Gc4);
+    printf("Total litror vendidos en la estacion de servivio: %.2f\n", Np1 + Nc2 + Gp3 + Gc4);
     printf("\n\n");
-    printf("Totales en $$ vendidos de Np: $%.2f", fNpTotal$);
-    printf("Totales en $$ vendidos de Nc: $%.2f", fNcTotal$);
-    printf("Totales en $$ vendidos de Gp: $%.2f", fGpTotal$);
-    printf("Totales en $$ vendidos de Gc: $%.2f", fGcTotal$);
+    printf("Totales en $$ vendidos de Np: $%.2f\n", fNpTotal$);
+    printf("Totales en $$ vendidos de Nc: $%.2f\n", fNcTotal$);
+    printf("Totales en $$ vendidos de Gp: $%.2f\n", fGpTotal$);
+    printf("Totales en $$ vendidos de Gc: $%.2f\n", fGcTotal$);
+    printf("Totales en $$ vendidos en la estacion de servicio: $%.2f\n", fNpTotal$ + fNcTotal$ + fGpTotal$ + fGcTotal$);
 
     return 0;
 }
