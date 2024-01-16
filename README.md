@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @GauchoDev
-- 👀 I’m interested in getting my first programming job...
-- 🌱 I’m currently at my second and last year at UTN, but I spent about 8 months teaching myself Python, Java, JavaScript and Protractor to test AngularJS and Non AngularJs applications...
-- 💞️ I’m looking to collaborate on any project on Python to get more experience...
-- 📫 How to reach me EstebanNegreteStudent@gmail.com...
-
-<!---
-GauchoDev/GauchoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I'm @GauchoDev!
+I recently graduated with a 2-year degree in computer programming, and I'm eager to kickstart my career in the field. During my studies, I gained proficiency in a range of technologies, including HTML, CSS, JavaScript, C, C++, Python, React, Node.js, and database design and management.
+I've also worked on various projects to apply and solidify my skills. Currently, I'm dedicated to continuous learning, staying updated on industry trends, and expanding my knowledge. I'm excited about the prospect of contributing my skills and knowledge to a dynamic team. Feel free to reach out to me at EstebanNegreteStudent@gmail.com if you have any opportunities or suggestions for my professional growth. Thank you!
